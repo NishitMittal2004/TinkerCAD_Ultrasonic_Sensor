@@ -1,1 +1,3 @@
 # TinkerCAD Ultrasonic Sensor
+
+![Diagram]()
